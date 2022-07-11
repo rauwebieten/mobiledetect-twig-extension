@@ -9,16 +9,16 @@ Installation
 
 
 ```bash
-composer require "bes/mobiledetect-twig-extension:1.*"
+composer require "rauwebieten/mobiledetect-twig-extension:1.*"
 ```
 
 And register the extension:
 
-
 **Twig standalone**
 
+
 ```php
-    $twig->addExtension(new Bes\Twig\Extension\MobileDetectExtension());
+    $twig->addExtension(new RauweBieten\MobileDetectTwigExtension\MobileDetectExtension());
 ```
 
 
