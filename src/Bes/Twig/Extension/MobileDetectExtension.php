@@ -1,6 +1,6 @@
 <?php
 
-namespace RauweBieten\MobileDetectTwigExtension;
+namespace Bes\Twig\Extension;
 
 use Mobile_Detect;
 use Twig\Extension\AbstractExtension;
